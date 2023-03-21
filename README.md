@@ -30,5 +30,5 @@ since 22/10/13
 
 ### GitHub Stats ☘
 ---
-![Woon's github stats](https://github-readme-stats.vercel.app/api?username=jwoon1013&show_icons=true&theme=vue)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwoon1013&theme=vue)
+![Woon's github stats](https://github-readme-stats.vercel.app/api?username=jwoon1013&show_icons=true&theme=vue)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwoon1013&layout=compact&theme=vue)
