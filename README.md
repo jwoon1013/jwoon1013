@@ -12,7 +12,7 @@ since 22/10/13
 
 
 ---
-[ <img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> ](jwoon1013@gmail.com)   [ <img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"> ](https://jw221013.tistory.com/)   
+[ <img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> ](mailto:jwoon1013@gmail.com)   [ <img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"> ](https://jw221013.tistory.com/)   
 
 
 
